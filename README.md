@@ -25,6 +25,6 @@ This project is a data analysis case study focused on analyzing smart device usa
 Based on the data, here are 4 main areas for improvement:
 
 1. **Hardware Improvements:** Investigate the root cause of the daily drop-off by prioritizing battery life and redesigning the strap for seamless, 24/7 wearability.
-2. **Precise Notifications:** Send a notification at 12:00 PM to remind users to stretch, and around 6:30 PM to motivate them for a main workout. Suggest easy goals on Tuesdays and Sundays to maintain the habit.
+2. **Precise Notifications:** Send a notification at 12:00 to remind users to stretch, and around 19:00 to motivate them for a main workout. Suggest easy goals on Tuesdays and Sundays to maintain the habit.
 3. **Sleep Education and Support:** Add an educational section on healthy habits, a "Wind Down" mode to help users prepare for bed, and a Smart Alarm to detect sleep and wake users after 8 hours.
 4. **Revamping Gamification:** Instead of just tracking 10,000 steps, introduce challenges based on time spent in an elevated heart rate zone to appreciate every type of sport and encourage intense physical effort.
